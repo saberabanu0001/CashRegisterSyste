@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("my name!\n");
+    printf("project!\n");
     return 0;
 }
