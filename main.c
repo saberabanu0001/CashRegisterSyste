@@ -32,7 +32,7 @@ void current_date()
     time_t current_date = time(NULL);
 
     char date_string[20];
-    strftime(date_string, 20, " %Y-%m-%d", localtime(&current_date));   //strftime function to format the current time into a string /// The localtime function is used to convert the current_time value (in seconds) into a struct tm structure representing the local time.
+    strftime(date_string, 20, " %Y-%m-%d", localtime(&current_date));   //strftime function to format the current time into a string
 
     printf("\t\t%s\t\t\t", date_string);
 
