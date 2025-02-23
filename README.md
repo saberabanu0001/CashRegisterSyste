@@ -9,6 +9,7 @@ Calculate the total bill with tax and generate a receipt.
 
 Features
 ✅ Add new products with name, quantity, and price.
+
 ✅ Display the list of all stored products.
 ✅ Generate a subtotal, tax, and final bill.
 ✅ Shows the current date and time on the receipt.
