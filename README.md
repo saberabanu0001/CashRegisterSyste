@@ -8,14 +8,19 @@ Display all available products.
 Calculate the total bill with tax and generate a receipt.
 
 Features
+
 ✅ Add new products with name, quantity, and price.
 
 ✅ Display the list of all stored products.
+
 ✅ Generate a subtotal, tax, and final bill.
+
 ✅ Shows the current date and time on the receipt.
+
 ✅ Simple and interactive menu-driven program.
 
 How to Run the Project
+
 Clone the Repository
 git clone https://github.com/saberabanu0001/CashRegisterSyste.git
 cd your-repo-name
@@ -28,10 +33,15 @@ File Structure
 
 📂 InventoryManagement
  ├── 📄 main.c            # Main program file
+ 
  ├── 📄 README.md         # Project documentation
+ 
  ├── 📄 c_project.cbp     # Code::Blocks project file
+ 
  ├── 📄 c_project.layout  # Layout configuration
+ 
  ├── 📄 main.exe          # Compiled executable (for Windows)
+ 
  ├── 📄 main.o            # Object file
 
 Future Enhancements
