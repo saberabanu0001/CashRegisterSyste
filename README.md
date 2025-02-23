@@ -16,7 +16,7 @@ Features
 
 How to Run the Project
 Clone the Repository
-git clone https://github.com/saberabanu0001/your-repo-name.git
+git clone https://github.com/saberabanu0001/CashRegisterSyste.git
 cd your-repo-name
 Compile the Code
 Use GCC or any C compiler:
